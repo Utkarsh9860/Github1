@@ -1,0 +1,2 @@
+.env
+echo "api_key=absd.12343545" > .env
