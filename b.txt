@@ -1,0 +1,3 @@
+This is the b.txt made using gitbash
+:wq
+
